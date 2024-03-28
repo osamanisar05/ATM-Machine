@@ -1,0 +1,20 @@
+{
+  "name": "on35br5_atm_transactions",
+  "version": "1.0.1",
+  "description": "",
+  "main": "Index.js",
+  "type": "module",
+  "bin": "Index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
